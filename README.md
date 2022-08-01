@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/charliemun1/operationizing-microservices.svg?style=svg&circle-token=644aca8c4c94ca89efb97a97d78a4025468b67cc)](https://circleci.com/gh/charliemun1/operationizing-microservices)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/charliemun1/operationizing-microservices/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/charliemun1/operationizing-microservices/tree/main)
 
 # udacity-devops-microservices
 
